@@ -1,0 +1,1 @@
+["accel_mag_mean", "accel_mag_max", "accel_mag_std", "jerk_mean", "jerk_max", "jerk_x_max", "jerk_y_max", "jerk_z_max", "gyro_mag_mean", "gyro_mag_max", "zero_crossing_rate", "fft_energy", "fft_energy_low", "fft_energy_mid", "fft_energy_high", "sma", "tilt_angle", "entropy", "accel_skew", "accel_kurtosis", "accel_max_mean_ratio"]
